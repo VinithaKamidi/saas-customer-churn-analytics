@@ -1,0 +1,5 @@
+contract_type,support_tier,customers,avg_nps,churn_rate_pct
+Annual,High Tickets (3+),97,7.67,18.56
+Annual,Low Tickets (<3),495,7.79,7.07
+Monthly,High Tickets (3+),236,7.94,33.47
+Monthly,Low Tickets (<3),1172,7.85,19.88

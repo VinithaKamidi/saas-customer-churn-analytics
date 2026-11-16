@@ -1,0 +1,4 @@
+subscription_plan,total_customers,total_mrr,churned_customers,churn_rate_pct
+Enterprise,305,152195,34,11.15
+Professional,708,70092,100,14.12
+Starter,987,28623,231,23.4
